@@ -4,9 +4,7 @@ layout: post
 date: 2024-04-15 10:30
 image: ../assets/img/android15.jpg
 headerImage: true
-tag:
-- Android15
-- Google
+tag: [Android15, Google]
 category: [Blog]
 author: sunnat629
 ---

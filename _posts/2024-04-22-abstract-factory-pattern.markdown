@@ -6,7 +6,7 @@ headerImage: false
 tag:
 - DesignPattern
 - Kotlin
-category: blog
+category: [Blog]
 author: sunnat629
 ---
 

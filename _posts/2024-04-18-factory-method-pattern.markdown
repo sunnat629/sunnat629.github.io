@@ -3,10 +3,8 @@ title: "Simplifying Object Creation with the Factory Method Pattern in Kotlin: A
 layout: post
 date: 2024-04-18 22:00
 headerImage: false
-tag:
-- DesignPattern
-- Kotlin
-category: blog
+tag: [DesignPattern, Kotlin]
+category: [Blog]
 author: sunnat629
 ---
 

@@ -3,10 +3,8 @@ title: "Singleton Pattern in Kotlin Explained Through Star Wars"
 layout: post
 date: 2024-04-22 22:30
 headerImage: false
-tag:
-- DesignPattern
-- Kotlin
-category: blog
+tag: [DesignPattern, Kotlin]
+category: [Blog]
 author: sunnat629
 image:
   path: /assets/img/posts/singleton.webp

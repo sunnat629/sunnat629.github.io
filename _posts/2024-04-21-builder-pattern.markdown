@@ -4,23 +4,11 @@ author: sunnat629
 date: 2024-04-16 22:00
 categories: [Blog]
 tags: [DesignPattern, Kotlin]
-pin: true
-math: true
 mermaid: true
 image:
-  path: /assets/img/android15.jpg
+  path: /assets/img/builder_pattern.webp
 ---
----
-title: "Mastering Object Creation with the Builder Pattern in Kotlin: A Pokémon Example"
-layout: post
-date: 2024-04-21 22:30
-headerImage: false
-tag:
-- DesignPattern
-- Kotlin
-category: blog
-author: sunnat629
----
+
 ## Mastering Object Creation with the Builder Pattern in Kotlin: A Pokémon Example
 
 #### Introduction

@@ -3,9 +3,7 @@ title: "Cloning Objects Efficiently with the Prototype Pattern in Kotlin: A Poke
 layout: post
 date: 2024-04-21 10:30
 headerImage: false
-tag:
-- DesignPattern
-- Kotlin
+tag: [DesignPattern, Kotlin]
 category: blog
 author: sunnat629
 ---
