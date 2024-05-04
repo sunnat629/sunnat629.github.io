@@ -2,7 +2,7 @@
 title: "Exploring Android 15"
 layout: post
 date: 2024-04-15 10:30
-image: ../assets/images/android15.jpg
+image: ../assets/img/android15.jpg
 headerImage: true
 tag:
 - Android15

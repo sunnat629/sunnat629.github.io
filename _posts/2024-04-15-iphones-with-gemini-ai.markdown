@@ -2,7 +2,7 @@
 title: "The Future of iPhones with Gemini AI Integration"
 layout: post
 date: 2024-04-15 10:30
-image: ../assets/images/profile.jpg
+image: ../assets/img/profile.jpg
 headerImage: true
 tag:
 - iPhone
