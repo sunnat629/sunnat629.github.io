@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Type Safety in Navigation with Jetpack Compose"
 layout: post
-date: 2023-05-06 11:30
+date: 2024-05-06 11:30
 image: /assets/img/nav-type-safety.webp
 headerImage: false
 tag:
