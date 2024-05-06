@@ -4,7 +4,7 @@ layout: post
 date: 2024-04-21 10:30
 headerImage: false
 tag: [DesignPattern, Kotlin]
-category: blog
+category: [Blog]
 author: sunnat629
 ---
 

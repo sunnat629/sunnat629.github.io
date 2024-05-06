@@ -4,10 +4,6 @@ layout: post
 date: 2024-04-15 10:30
 headerImage: true
 tag: [iPhone, GeminiAI, Apple, Google]
-- iPhone
-- Gemini AI
-- Apple
-- Google
 category: blog
 author: sunnat629
 ---
